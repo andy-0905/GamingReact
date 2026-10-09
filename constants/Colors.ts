@@ -1,0 +1,17 @@
+export const Colors = {
+  background: '#1e140d',
+  containerBg: '#2b1d13',
+  border: '#6b4b2a',
+  text: '#f5e6c8',
+  accent: '#ffcc66',
+  accentSecondary: '#e0b97a',
+  sectionBg: '#f5e6c8',
+  sectionText: '#2b1d13',
+  success: '#7CFC00',
+  error: '#ff6b6b',
+  buttonGradientStart: '#8b6a3f',
+  buttonGradientEnd: '#5a3e24',
+  headerBg: '#f5e6c8',
+  headerText: '#111111',
+  penalty: '#ff4d4d',
+};
